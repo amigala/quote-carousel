@@ -1,4 +1,4 @@
-# Quote Carousel
+# Quote Carousel🌌
 
 Need something to make your day a bit magical? Maybe you want some nostalgia in your life? Well here are some inspirational quotes from the mouse himself! Here you can find quotes from your favorite Disney characters that will make you laugh, smile, or just brighten your day all together. 
 
