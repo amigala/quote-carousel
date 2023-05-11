@@ -19,6 +19,16 @@ const data = [
     quote: `“Ohana Means Family. Family Means Nobody Gets Left Behind Or Forgotten.”`, 
     emoji: '👌', 
     image: `url(assets/lilo&stitch.jpg)`
+  },
+  {
+    quote: `“The flower that blooms in adversity is the most rare and beautiful of all.”`,
+    emoji: '🌸',
+    image: `url(assets/mulan.jpg)`
+  },
+  {
+    quote: `“The past can hurt. But the way I see it, you can either run from it, or learn from it.”`,
+    emoji: '🦁',
+    image: `url(assets/thelionking.jpg)`
   }
 ];
 
