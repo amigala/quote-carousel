@@ -1,24 +1,24 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“Be like a mountain.”`, 
+   quote: `“Our fate lives within us; you only have to be Brave enough to see it.”`, 
    emoji: '🗻', 
-   image: `url(assets/mountain.jpg)`
+   image: `url(assets/brave.jpeg)`
   }, 
   {
-   quote: `“Brave the oceans.”`, 
+   quote: `“Just keep swimming!”`, 
    emoji: '🌊', 
-   image: `url(assets/ocean.jpg)`
+   image: `url(assets/findingnemo.jpeg)`
   },  
   {
-   quote: `“Grow like a tree.”`, 
+   quote: `“Some people are worth melting for.”`, 
    emoji: '🌲' , 
-   image: `url(assets/tree.jpg)`
+   image: `url(assets/frozen.jpeg)`
   },
   {
-    quote: `“We'll be ok now.”`, 
+    quote: `“Ohana Means Family. Family Means Nobody Gets Left Behind Or Forgotten.”`, 
     emoji: '👌', 
-    image: `url(assets/forest.jpg)`
+    image: `url(assets/lilo&stitch.jpg)`
   }
 ];
 
