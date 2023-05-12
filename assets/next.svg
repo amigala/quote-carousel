@@ -1,3 +1,16 @@
-<svg width="23" height="21" viewBox="0 0 23 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2088 0.0202637L22.3631 10.2597L12.2088 20.4992L9.36858 17.6826L14.7464 12.2597H0.571289V8.25973H14.7464L9.36858 2.83686L12.2088 0.0202637Z" fill="black"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="64.000000pt" height="64.000000pt" viewBox="0 0 64.000000 64.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M164 569 c-4 -6 44 -62 112 -130 l119 -119 -119 -119 c-68 -68 -116
+-124 -112 -130 4 -6 19 -11 34 -11 22 0 55 27 157 130 l130 130 -130 130
+c-102 103 -135 130 -157 130 -15 0 -30 -5 -34 -11z m181 -129 l120 -120 -120
+-120 c-90 -91 -126 -120 -145 -120 -21 0 -9 17 93 116 64 63 117 119 117 124
+0 5 -53 61 -117 124 -102 99 -114 116 -93 116 19 0 55 -29 145 -120z"/>
+</g>
 </svg>
