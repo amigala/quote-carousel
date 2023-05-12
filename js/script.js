@@ -1,32 +1,32 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“Our fate lives within us; you only have to be Brave enough to see it.”`, 
+   quote: `“Our fate lives within us; you only have to be Brave enough to see it.” - Merida`, 
    emoji: '🗻', 
    image: `url(assets/brave.jpeg)`
   }, 
   {
-   quote: `“Just keep swimming!”`, 
+   quote: `“Just keep swimming!” - Dory`, 
    emoji: '🌊', 
    image: `url(assets/findingnemo.jpeg)`
   },  
   {
-   quote: `“Some people are worth melting for.”`, 
+   quote: `“Some people are worth melting for.” - Olaf`, 
    emoji: '🌲' , 
    image: `url(assets/frozen.jpeg)`
   },
   {
-    quote: `“Ohana Means Family. Family Means Nobody Gets Left Behind Or Forgotten.”`, 
+    quote: `“Ohana Means Family. Family Means Nobody Gets Left Behind Or Forgotten.” - Stitch`, 
     emoji: '👌', 
     image: `url(assets/lilo&stitch.jpg)`
   },
   {
-    quote: `“The flower that blooms in adversity is the most rare and beautiful of all.”`,
+    quote: `“The flower that blooms in adversity is the most rare and beautiful of all.” - The Emperor`,
     emoji: '🌸',
     image: `url(assets/mulan.jpg)`
   },
   {
-    quote: `“The past can hurt. But the way I see it, you can either run from it, or learn from it.”`,
+    quote: `“The past can hurt. But the way I see it, you can either run from it, or learn from it.” - Rafiki`,
     emoji: '🦁',
     image: `url(assets/thelionking.jpg)`
   }
@@ -43,11 +43,11 @@ const emoji = document.querySelector('p');
 const bgImage = document.querySelector('body');
 
 // Check-Check: change text
-quote.innerHTML = "Colin is quotable.";
+quote.innerHTML = "All of our dreams can come true if we have the courage to pursue them. - Walt Disney";
 // Check-Check: change emoji text
 emoji.innerHTML = "👍️";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/mountain.jpg)';
+bgImage.style.backgroundImage= 'url(assets/disneycastle.jpg)';
 
 /*
  * Navigate to Items with Event Listeners
