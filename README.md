@@ -10,4 +10,7 @@ Need something to make your day a bit magical? Maybe you want some nostalgia in 
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
-- Your citations and sources go here
+- [Font Share](https://www.fontshare.com/fonts/zodiak)
+- [Disney Movies](https://movies.disney.com)
+- [SVG icon](https://icons8.com/icons/set/next)
+- [SVG converter](https://convertio.co)

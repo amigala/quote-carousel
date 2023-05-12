@@ -2,22 +2,22 @@
 const data = [
   {
    quote: `“Our fate lives within us; you only have to be Brave enough to see it.” - Merida`, 
-   emoji: '🗻', 
+   emoji: '🏹', 
    image: `url(assets/brave.jpeg)`
   }, 
   {
    quote: `“Just keep swimming!” - Dory`, 
-   emoji: '🌊', 
+   emoji: '🐠', 
    image: `url(assets/findingnemo.jpeg)`
   },  
   {
    quote: `“Some people are worth melting for.” - Olaf`, 
-   emoji: '🌲' , 
+   emoji: '☃️' , 
    image: `url(assets/frozen.jpeg)`
   },
   {
     quote: `“Ohana Means Family. Family Means Nobody Gets Left Behind Or Forgotten.” - Stitch`, 
-    emoji: '👌', 
+    emoji: '🌺', 
     image: `url(assets/lilo&stitch.jpg)`
   },
   {
@@ -45,7 +45,7 @@ const bgImage = document.querySelector('body');
 // Check-Check: change text
 quote.innerHTML = "All of our dreams can come true if we have the courage to pursue them. - Walt Disney";
 // Check-Check: change emoji text
-emoji.innerHTML = "👍️";
+emoji.innerHTML = "🏰";
 // Check-Check: background image
 bgImage.style.backgroundImage= 'url(assets/disneycastle.jpg)';
 

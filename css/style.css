@@ -4,6 +4,7 @@
 body {  
   /* Horizontal and Vertical Center */
   font-family: 'Zodiak-Regular';
+  color: #D264B6;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,5 +23,5 @@ main {
   text-align: center;
   
   /* Add contrast to text */
-  background-color: rgba(249, 249, 249, 0.534);
+  background-color: #bde0febe;
 }
